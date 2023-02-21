@@ -66,3 +66,4 @@ frontCameraButton.onclick = function() {
 // 1st parameter: Event type
 // 2nd parameter: Function to be called when the event occurs
 window.addEventListener("load", cameraStart);
+
